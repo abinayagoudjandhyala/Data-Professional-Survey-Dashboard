@@ -47,7 +47,7 @@ The dashboard presents key findings in an interactive and visually engaging form
 ## How to Use This Repository
 1. Clone this repository:
    ```bash
-   git clone https://github.com/abinayagoudjandhyala/DataProfessionalSurvey.git
+   git clone https://github.com/abinayagoudjandhyala/Data-Professional-Survey-Dashboard.git
    ```
 2. Open the Power BI project file (`DataProfessionalSurvey.pbix`) in **Power BI Desktop**.
 3. Explore the interactive dashboard to dive into insights.
