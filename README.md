@@ -29,8 +29,6 @@ The dashboard presents key findings in an interactive and visually engaging form
 4. **Programming Languages**:
    - **Python** is the most preferred programming language, followed by R, SQL, and others.
 
-### Dashboard Preview
-![alt text](Dashboard_preview.png.png)
 
 ## Repository Structure
 
