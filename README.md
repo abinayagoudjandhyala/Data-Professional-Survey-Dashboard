@@ -50,8 +50,6 @@ The dashboard presents key findings in an interactive and visually engaging form
 2. Open the Power BI project file (`DataProfessionalSurvey.pbix`) in **Power BI Desktop**.
 3. Explore the interactive dashboard to dive into insights.
 
-## Credits
-This project is based on the Data Professional Survey dataset and tutorial by Alex the Analyst.
 
 
 
